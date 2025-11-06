@@ -1,4 +1,4 @@
-package com.test.demo;
+OOOOOpackage com.test.demo;
 
 public class TestClassMain {
 
@@ -8,3 +8,4 @@ public class TestClassMain {
 	}
 
 }
+
